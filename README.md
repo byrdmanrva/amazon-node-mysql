@@ -12,5 +12,4 @@ Run "node bamazonManager.js" from the command line to access manager features.
 - View products for sale
 - View low inventory
 - Update inventory levels
-- Create new product
-You will be asked to provide a product name, department, price, and quantity.
+- Create new product. (You will be asked to provide a product name, department, price, and quantity.)
